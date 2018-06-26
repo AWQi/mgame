@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:2:5-26
+		INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:13:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:15:22-78
+application
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:19:5-46:19
+	android:label
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:23:9-37
+	android:icon
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:22:9-38
+	android:allowBackup
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:20:9-35
+activity#com.example.DataMonitor
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:24:9-36:20
+	android:screenOrientation
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:30:13-41
+	android:launchMode
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:28:13-44
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:26:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:31:13-55
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:25:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.example.DeviceListActivity
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:37:9-41:59
+	android:label
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:40:13-50
+	android:configChanges
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:39:13-63
+	android:theme
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:38:13-47
+activity#com.example.GameActivity
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:42:9-87
+	android:screenOrientation
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:42:48-85
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:42:19-47
+activity#com.example.GameImageShowActivity
+ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:43:9-45:15
+	android:screenOrientation
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:44:13-50
+	android:name
+		ADDED from D:\AndroidWorkspace\mgame\app\src\main\AndroidManifest.xml:43:19-56

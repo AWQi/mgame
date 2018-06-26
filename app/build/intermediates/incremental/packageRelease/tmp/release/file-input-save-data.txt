@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Jun 09 11:36:00 CST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\AndroidWorkspace\\mgame\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

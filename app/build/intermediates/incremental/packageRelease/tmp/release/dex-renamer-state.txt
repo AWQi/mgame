@@ -1,0 +1,4 @@
+#Sat Jun 09 11:36:00 CST 2018
+base.0=D\:\\AndroidWorkspace\\mgame\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
